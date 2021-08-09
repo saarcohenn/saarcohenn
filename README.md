@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 My name is Saar Cohen and I am simply a developer.
 I like to learn new things everyday, Therefore, I have decided to become a developer.
 
-- 🔭 I’m currently working on my personal portfolio, and about to begin a new project regarding my personal interest which is FOOD
-- 🌱 I’m currently learning Web Development and particullary Full Stack Development.
+Here is my (portfolio)[https://saarcohenn.github.io/portfolio] 😁.
+
+- 🔭 I’m currently working on a new project regarding my personal interest which is FOOD 🥑
+- 👨🏻‍💻 I’m currently learning Web Development and particullary Full Stack Development.
 - 🌱 My Stack:
   1. HTML, CSS
   2. Vanilla JS , React.JS, Redux, ContextAPI
