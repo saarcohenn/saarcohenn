@@ -23,10 +23,10 @@ Here is my (portfolio)[https://saarcohenn.github.io/portfolio] 😁.
 - 🔭 I’m currently working on a new project regarding my personal interest which is FOOD 🥑
 - 👨🏻‍💻 I’m currently learning Web Development and particullary Full Stack Development.
 - 🌱 My Stack:
-  1. HTML, CSS
-  2. Vanilla JS , React.JS, Redux, ContextAPI
-  3. Next.JS, Node.JS, Python
-  4. MongoDB, Firebase, Postgre, MySQL
+  - HTML, CSS
+  - Vanilla JS , React.JS, Redux, ContextAPI
+  - Next.JS, Node.JS, Python
+  - MongoDB, Firebase, Postgre, MySQL
 - 📫 How to reach me:
   * In my [LinkedIn Profile](https://www.linkedin.com/in/saohen).
   * My email Address: [saar.cohenn@gmail.com](saar.cohenn@gmail.com)
