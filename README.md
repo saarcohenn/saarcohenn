@@ -20,7 +20,7 @@ Quick to learn new languages, techniques, and methodologies.
 I am a team player, organized, and passionate about working in a dynamic and challenging environment.
 
 
-Here is my (portfolio)[https://saarcohenn.github.io/portfolio] 😁.
+Here is my [portfolio](https://saarcohenn.github.io/portfolio) 😁.
 
 - 🔭 I’m currently working on a new project regarding my personal interest which is FOOD 🥑
 - 🌱 My Stack:
