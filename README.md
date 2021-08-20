@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi,
+I am A Software Engineer, experienced in military service at unit 8200 and high-tech industry. 
+Quick to learn new languages, techniques, and methodologies. 
+I am a team player, organized, and passionate about working in a dynamic and challenging environment.
 
-My name is Saar Cohen and I am simply a developer.
-I like to learn new things everyday, Therefore, I have decided to become a developer.
 
 Here is my (portfolio)[https://saarcohenn.github.io/portfolio] 😁.
 
 - 🔭 I’m currently working on a new project regarding my personal interest which is FOOD 🥑
-- 👨🏻‍💻 I’m currently learning Web Development and particullary Full Stack Development.
 - 🌱 My Stack:
   - HTML, CSS
   - Vanilla JS , React.JS, Redux, ContextAPI
